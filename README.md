@@ -1,6 +1,13 @@
 # Keylogger-for-linux-kernel
 Script to run a key logger than records each keystroke and saves it into a file. Caesar's cipher has been implemented to encrypt the keystrokes entered into the file.
 
+Output will be the encrypted version of the pressed keys.
+
+For example,
+
+	Hello_Linux =>  Ly``]_TAB_~[.pb 
+
+
 
 keylogger
 =========
